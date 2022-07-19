@@ -1,2 +1,2 @@
 # JAVA
-Practice Java
+Java Practice question's

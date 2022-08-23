@@ -18,6 +18,8 @@ public class Add_three_numbers {
         System.out.println("Sum of all there three numbers is");
         System.out.println(Sum);
 
+        
+        
     }
 
 }

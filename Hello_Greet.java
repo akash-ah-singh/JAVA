@@ -18,7 +18,6 @@ public class Hello_Greet {
         System.out.print(" Have a good day");
 
 
-
     }
 
 }

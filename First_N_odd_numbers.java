@@ -6,7 +6,6 @@ public class First_N_odd_numbers {
         for(int i=0; i<n; i++){
             System.out.println(2*i+1);
 
-
         }
     }
 }

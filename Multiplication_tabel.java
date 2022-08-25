@@ -9,5 +9,6 @@ public class Multiplication_tabel {
         }
 
 
+        
     }
 }

@@ -10,9 +10,6 @@ public class Number_is_INTEGER_or_not {
 
         System.out.println(sc.hasNextInt());
 
-
-
-
     }
 
 }

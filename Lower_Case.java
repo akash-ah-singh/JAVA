@@ -10,6 +10,7 @@ public class Lower_Case {
 		String name=sc.nextLine();
         System.out.println(name.toLowerCase());
 
+	    
     }
 
 }

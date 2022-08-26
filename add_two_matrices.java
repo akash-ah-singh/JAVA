@@ -13,7 +13,7 @@ public class add_two_matrices {
 //        tabel1[1][0] = 1;
 //        tabel1[1][1] = 3;
 //        tabel1[1][2] = 5;
-//
+
 //        tabel2[0][0] = 5;
 //        tabel2[0][1] = 3;
 //        tabel2[0][2] = 1;
@@ -25,7 +25,7 @@ public class add_two_matrices {
             for (int j = 0; j < tabel1[i].length; j++) {
                 tabel3[i][j]=tabel1[i][j]+tabel2[i][j];
                 System.out.print(tabel3[i][j]+" ");
-
+       
 
             }
             System.out.println("");

@@ -13,7 +13,6 @@ public class Sum_first_N_EvenNumber {
         System.out.print(sum);
 
 
-
     }
 }
 

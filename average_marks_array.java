@@ -13,5 +13,7 @@ public class average_marks_array {
         average=sum/marks.length;
         System.out.println(average);
 
+        
+        
     }
 }

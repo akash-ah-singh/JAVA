@@ -10,8 +10,6 @@ public class detect_spaces {
         System.out.println("Enter any name with Spaces :");
         String name=sc.nextLine();
 
-
-
     }
 
 }

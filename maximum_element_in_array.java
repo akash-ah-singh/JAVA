@@ -15,7 +15,5 @@ public class maximum_element_in_array {
         System.out.println(max);
 
 
-
-
     }
 }

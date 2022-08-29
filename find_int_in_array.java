@@ -18,7 +18,6 @@ public class find_int_in_array {
         }
         else{
             System.out.println("element is not in array");
-
         }
 
     }

@@ -13,6 +13,5 @@ public class minimum_element_in_array {
         }
         System.out.println(min);
 
-
     }
 }

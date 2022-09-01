@@ -17,8 +17,7 @@ public class method {
         int n=sc.nextInt();
 
         mul(n);
-
-        
+    
     }
     
 }

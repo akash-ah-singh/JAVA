@@ -6,6 +6,7 @@ public class multiplication_in_reverse_order {
         for(int i=10; i>=1; i--){
             rev_mul=i*10;
             System.out.println(rev_mul);
+            
         }
     }
 }

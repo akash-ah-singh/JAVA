@@ -22,6 +22,7 @@ public class natural_number {
             i++;
         }
 
+        
         System.out.println("natural number in reverse order : ");
 
         for(int x=50;x>0; x--){

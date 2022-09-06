@@ -20,6 +20,5 @@ public class method_multiplication {
         mul(n);
 
         }
-
     }
 

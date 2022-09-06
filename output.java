@@ -11,7 +11,6 @@ public class output {
         else
             System.out.println("i am not 10");
 
-
     }
 
 }

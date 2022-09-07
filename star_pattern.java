@@ -10,5 +10,4 @@ public class star_pattern {
             System.out.print("\n");
         }
     }
-    }
-
+}

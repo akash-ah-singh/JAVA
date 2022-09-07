@@ -15,5 +15,4 @@ public class replace2 {
         System.out.println(name.replace("<|name|>", a ));
 
     }
-
 }
